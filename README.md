@@ -5,10 +5,6 @@ Campograma de fútbol 120x90
 
 La disposición de los ejes es la siguiente:
 (0, 0)          (120, 0)
-  +---------------+
-  |               |
-  |     CAMPO     |
-  |               |
-  +---------------+
+
 (0, 90)         (120, 90)
 
