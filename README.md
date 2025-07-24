@@ -16,6 +16,7 @@ Al hacer clic sobre cualquier parte del campo, se imprimen las coordenadas **(X,
 1. Clona este repositorio o descarga el archivo `.py`:
 
 ```bash
-git clone https://github.com/bertocs/Plantilla-de-Registro-de-Duelos.git
-cd Plantilla-de-Registro-de-Duelos
+git clone https://github.com/bertocs/Campograma-F-tbol.git
+cd Campograma-F-tbol
+
 
