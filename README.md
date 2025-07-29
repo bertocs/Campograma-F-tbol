@@ -1,4 +1,4 @@
-# ⚽ Campograma de Campo de Fútbol (120x90)
+# ⚽ Campograma de Fútbol (120x90)
 
 Este proyecto genera una visualización detallada de un campo de fútbol con dimensiones **120x90 metros**, utilizando **Matplotlib** en Python. Además, incluye una funcionalidad interactiva para obtener las coordenadas exactas de cualquier punto del campo al hacer clic.
 
